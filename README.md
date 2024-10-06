@@ -2,7 +2,6 @@
 
 This Is A Website To Generate Secure Password Fast
 
-
 ## Run Locally
 
 Clone the project
@@ -14,7 +13,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Password-Generator
 ```
 
 Open It With Vs Code
